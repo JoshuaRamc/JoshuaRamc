@@ -8,7 +8,7 @@ creativity that I bring to every project I am on.
 
 ## 💻 Tech Stack & Tools  
 - **Languages:** Python, JavaScript, TypeScript, C++, Scala, SQL  
-- **Cloud & Data Platforms:** AWS, Azure, Databricks, 
+- **Cloud & Data Platforms:** AWS, Azure, Databricks
 - **Other Technologies:** Spark, Docker, React, Vue, Selenium, LLMs
 
 ## 🚀 What I Do  
