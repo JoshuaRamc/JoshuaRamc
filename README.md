@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey there! I'm Joshua Ramcharan
 
-<!--
-**JoshuaRamc/JoshuaRamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** specializing in **Data & AI**, with a passion for building scalable systems and harnessing data-driven insights.
+Currently, I'm pursuing my **Master's in Analytics at Georgia Tech**, expanding my expertise in machine learning, big data, and cloud computing.
+I frequently integrate LLMs into my work, both personally and professionally—whether to enhance productivity or develop cutting-edge generative AI solutions.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack & Tools  
+- **Languages:** Python, JavaScript, TypeScript, C++, Scala, SQL  
+- **Cloud & Data Platforms:** AWS, Azure, Databricks, 
+- **Other Technologies:** Spark, Docker, React, Vue, Selenium, LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+- Design and develop data-intensive applications  
+- Build AI-driven solutions and optimize machine learning pipelines  
+- Work with cloud and distributed computing platforms  
+
+## 📫 Let's Connect!  
+- GitHub: https://github.com/JoshuaRamc  
+- LinkedIn: https://www.linkedin.com/in/joshuaramcharan/    
+
+Always open to collaborating with those who share the same passions as I do! 🚀  
