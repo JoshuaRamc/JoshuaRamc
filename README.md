@@ -21,3 +21,7 @@ creativity that I bring to every project I am on.
 - LinkedIn: https://www.linkedin.com/in/joshuaramcharan/    
 
 Always open to collaborating with those who share the same passions as I do! 🚀  
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRamc&layout=compact&theme=radical)
