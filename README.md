@@ -24,8 +24,7 @@ Always open to collaborating with those who share the same passions as I do! ðŸš
 
 ## ðŸ“Š GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRamc&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRamc&layout=compact&theme=default)        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaRamc&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaRamc&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JoshuaRamc&theme=flat&no-frame=true&margin-w=5)
