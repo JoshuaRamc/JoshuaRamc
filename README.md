@@ -12,7 +12,7 @@ creativity that I bring to every project I am on.
 - **Other Technologies:** Spark, Docker, React, Vue, Selenium, LLMs
 
 ## 🚀 What I Do  
-- Design and develop data-intensive applications  
+- Design and develop data-intensive applications as a Full Stack Software Engineer 
 - Build AI-driven solutions and optimize machine learning pipelines  
 - Work with cloud and distributed computing platforms  
 
