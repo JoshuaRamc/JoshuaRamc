@@ -9,7 +9,7 @@ creativity that I bring to every project I am on.
 ## 💻 Tech Stack & Tools  
 - **Languages:** Python, JavaScript, TypeScript, C++, Scala, SQL  
 - **Cloud & Data Platforms:** AWS, Azure, Databricks
-- **Other Technologies:** Spark, Docker, React, Vue, Selenium, LLMs
+- **Other Technologies:** Spark, Docker, React, Vue, Selenium, Langraph/Langchain, LLMs
 
 ## 🚀 What I Do  
 - Design and develop data-intensive applications as a Full Stack Software Engineer 
